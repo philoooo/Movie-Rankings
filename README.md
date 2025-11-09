@@ -1,5 +1,6 @@
 # Movie Rankings: Intro to HTML
 
+![Movie Rankings](https://github.com/philoooo/Movie-Rankings/blob/main/Screenshot%202025-11-09%20at%203.10.57%20PM.png)
 ```
  <h1>My Top 3 Movie Rankings for 2025</h1>
  <h3>With the end of 2025 coming to a close, I thought it best to inform you all of 
